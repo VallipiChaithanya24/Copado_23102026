@@ -1,0 +1,10 @@
+# List files or folders to ignore when deploying to orgs
+**/node_modules
+**/package-lock.json
+**/package.json
+**/.vscode
+**/.idea
+**/.DS_Store
+**/*.log
+**/__tests__
+**/coverage
